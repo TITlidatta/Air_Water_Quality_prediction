@@ -1,0 +1,22 @@
+.heading{
+    color: rgba(31, 30, 30, 0.914);
+    font-size: 40px;
+}
+.box{
+    font-size:20px;
+    margin-left:25vw;
+    margin-top:10vh;
+    width:50vw;
+    border-radius:9px;
+    border-color: black;
+    border:solid rgb(70, 102, 129) 1.5px;
+    padding:5px;
+    text-shadow: 5px;
+    font-style: italic;
+    background-color: rgba(194, 211, 234, 0.351);
+}
+.btn{
+    background-color: rgb(52, 72, 95);
+    color:white;
+    border-radius:5px;
+}

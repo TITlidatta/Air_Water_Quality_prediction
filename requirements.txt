@@ -1,0 +1,7 @@
+#pip modules
+pandas
+flask
+scikit-learn
+imbalanced-learn
+requests
+os
